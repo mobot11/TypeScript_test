@@ -1,0 +1,16 @@
+{
+  "name": "typescript-test",
+  "version": "0.1.0",
+  "description": "Get fucking typescript compiling",
+  "main": "./dist/main/js",
+  "scripts": {
+    "test": "which gulp"
+  },
+  "author": "Dylan Moberg",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "tsify": "^1.0.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
